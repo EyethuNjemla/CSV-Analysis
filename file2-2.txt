@@ -1,0 +1,204 @@
+Question a:
+Number of country names ending with 'a': 13014
+
+Question b:
+Top 5 cities by population:
+1. Mumbai (Bombay): 10,500,000
+2. Seoul: 9,981,619
+3. São Paulo: 9,968,485
+4. Shanghai: 9,696,300
+5. Jakarta: 9,604,900
+
+Question c:
+Top 5 countries by landmass:
+1.Russian Federation:17,075,400.00
+2.Canada:9,970,610.00
+3.China:9,572,900.00
+4.United States:9,363,520.00
+5.Brazil:8,547,403.00
+
+Question D:
+Number of countries that gained independence between 1960-1980: 68
+
+Countries that gained independence between 1960-1980:
+- Algeria
+- Angola
+- Bahamas
+- Bahrain
+- Bangladesh
+- Barbados
+- Benin
+- Botswana
+- Burkina Faso
+- Burundi
+- Cameroon
+- Cape Verde
+- Central African Republic
+- Chad
+- Comoros
+- Congo
+- Cyprus
+- Côte d’Ivoire
+- Djibouti
+- Dominica
+- Equatorial Guinea
+- Fiji Islands
+- Gabon
+- Gambia
+- Grenada
+- Guinea-Bissau
+- Guyana
+- Jamaica
+- Kenya
+- Kiribati
+- Kuwait
+- Lesotho
+- Madagascar
+- Malawi
+- Maldives
+- Mali
+- Malta
+- Mauritania
+- Mauritius
+- Mozambique
+- Nauru
+- Niger
+- Nigeria
+- Papua New Guinea
+- Qatar
+- Rwanda
+- Saint Lucia
+- Saint Vincent and the Grenadines
+- Samoa
+- Sao Tome and Principe
+- Senegal
+- Seychelles
+- Sierra Leone
+- Singapore
+- Solomon Islands
+- Somalia
+- Suriname
+- Swaziland
+- Tanzania
+- Togo
+- Tonga
+- Trinidad and Tobago
+- Tuvalu
+- Uganda
+- United Arab Emirates
+- Vanuatu
+- Zambia
+- Zimbabwe
+
+Question E:
+Countries that gained independence between 1830-1850:
+-Belgium
+-Dominican Republic
+-Greece
+-Honduras
+-Liberia
+-Nicaragua
+-El Salvador
+
+Question f:
+Top 5 African countries by life expectancy:
+1. Saint Helena: 76.8 years
+2. Libyan Arab Jamahiriya: 75.5 years
+3. Tunisia: 73.7 years
+4. Réunion: 72.7 years
+5. Mauritius: 71.0 years
+Life expectancy.
+
+Question g:
+Top 5 most commonly spoken languages:
+1.Chinese: 1016 occurrences
+2.Spanish: 831 occurrences
+3.German: 813 occurrences
+4.Italian: 785 occurrences
+5.Japanese: 774 occurrences
+
+Question H:
+Unique country names ending with 'a':
+-"Micronesia
+-Albania
+-Algeria
+-American Samoa
+-Andorra
+-Angola
+-Anguilla
+-Antigua and Barbuda
+-Argentina
+-Armenia
+-Aruba
+-Australia
+-Austria
+-Bermuda
+-Bolivia
+-Bosnia and Herzegovina
+-Botswana
+-Bulgaria
+-Cambodia
+-Canada
+-China
+-Colombia
+-Costa Rica
+-Croatia
+-Cuba
+-Dominica
+-Equatorial Guinea
+-Eritrea
+-Estonia
+-Ethiopia
+-French Guiana
+-French Polynesia
+-Gambia
+-Georgia
+-Ghana
+-Grenada
+-Guatemala
+-Guinea
+-Guyana
+-India
+-Indonesia
+-Jamaica
+-Kenya
+-Latvia
+-Liberia
+-Libyan Arab Jamahiriya
+-Lithuania
+-Macedonia
+-Malaysia
+-Malta
+-Mauritania
+-Moldova
+-Mongolia
+-Namibia
+-New Caledonia
+-Nicaragua
+-Nigeria
+-North Korea
+-Panama
+-Papua New Guinea
+-Romania
+-Rwanda
+-Saint Helena
+-Saint Lucia
+-Samoa
+-Saudi Arabia
+-Slovakia
+-Slovenia
+-Somalia
+-South Africa
+-South Korea
+-Sri Lanka
+-Syria
+-Tanzania
+-Tonga
+-Tunisia
+-Uganda
+-Venezuela
+-Wallis and Futuna
+-Western Sahara
+-Yugoslavia
+-Zambia
+
